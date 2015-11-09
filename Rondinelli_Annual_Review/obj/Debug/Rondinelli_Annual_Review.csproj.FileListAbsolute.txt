@@ -1,0 +1,13 @@
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\bin\Debug\Rondinelli_Annual_Review.exe.config
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\bin\Debug\Rondinelli_Annual_Review.exe
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\bin\Debug\Rondinelli_Annual_Review.pdb
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.AnnualReviewApp.resources
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.DisplayEmployeeInfo.resources
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.Properties.Resources.resources
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.exe
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.pdb
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.AddEmployeeForm.resources
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.CalculateBonus.resources
+C:\Users\Craig\Desktop\Rondinelli_Annual_Review\Rondinelli_Annual_Review\obj\Debug\Rondinelli_Annual_Review.CalculateNewPayForm.resources
